@@ -1,0 +1,57 @@
+.classtituloUno {
+    text-align: center;
+    padding: 50%;
+    justify-content: center;
+}
+.miLogo {
+    width: 150px;
+}
+
+.miFondo {
+    background-color: yellow;}
+
+header {
+    border-top: solid 20px color #ceb83b
+}
+
+
+.miLink:hover {
+    background-color: aliceblue;
+    color: #000000;
+}
+
+.colorBtn {
+    background-color: yellow;
+    color: #030303;
+    font-size: 25px;
+}
+
+.colorBtn:hover {
+    background-color: #dbcd7d;
+}
+
+.subtitulo2 {
+    padding-top: 35px;
+}
+
+.parrafo1 {
+    padding-top: 15px;
+}
+
+.CajaDecartas {
+    height: 50%;
+}
+
+.wsp1 {
+    display: flex end;
+    object-fit: cover;
+    position: fixed;
+    height: 80px;
+    width: 80px;
+    bottom: 0;
+}
+
+
+.class row mt-5 cajaDecartas{
+    text-align: solid;
+}
